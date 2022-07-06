@@ -2,3 +2,12 @@
 *.db
 *.ipch
 *.json
+*.obj
+BaseLibrary/BaseLibrary/x64/Debug/BaseLibrary.tlog/CL.command.1.tlog
+*.lastbuildstate
+*.tlog
+BaseLibrary/BaseLibrary/x64/Debug/
+*.db-shm
+*.db-wal
+*.opendb
+BaseLibrary/x64/
